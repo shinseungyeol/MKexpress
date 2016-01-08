@@ -5,4 +5,10 @@ What is this?
 
 first
 
+<<<<<<< HEAD
+>>>>>>> shin
+=======
+scond
+
+
 >>>>>>> shin
