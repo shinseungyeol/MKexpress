@@ -1,2 +1,18 @@
+<<<<<<< HEAD
 hiniihihihihihi
+=======
+<<<<<<< HEAD
+What is this?
+=======
+What is this?
 
+first
+
+<<<<<<< HEAD
+>>>>>>> shin
+=======
+scond
+
+>>>>>>> 12a0d8d885c2e34aa587e455ad653ab03f3edb77
+
+>>>>>>> shin
